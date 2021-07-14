@@ -1,0 +1,3 @@
+-Java project has 2 classes (cell.java,KnightMoves.java)-> one class for the cell class and one main class contain the functions .
+-there are comments on each function to declare everything.
+-we tested the function by the test case writen in the assignment.
